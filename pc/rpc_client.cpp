@@ -10,7 +10,9 @@ using namespace pc;
 const char *price_type_str[] = {
   "unknown",
   "price",
-  "twap"
+  "twap",
+  "floor_price",
+  "avg_price"
 };
 
 // symbol_status

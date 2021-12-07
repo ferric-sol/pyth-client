@@ -31,6 +31,8 @@ extern "C" {
 // price types
 #define PC_PTYPE_UNKNOWN      0
 #define PC_PTYPE_PRICE        1
+#define PC_PTYPE_FLOORPRICE   3
+#define PC_PTYPE_AVGPRICE     4
 
 // symbol status
 #define PC_STATUS_UNKNOWN     0
